@@ -1,0 +1,7 @@
+Linea,MachineID,Operador,Fecha,Piezas_Producidas,Piezas_Defectuosas,Turno
+Línea C,MCH-01,Pedro Torres,07/10/2025,84.0,2.0,Tarde
+Línea C,MCH-03,Pedro Torres,04/10/2025,170.0,1.0,Noche
+Línea A,MCH-01,Ana López,10/10/2025,90.0,15.0,tarde
+Línea A,MCH-01,María Díaz,09/10/2025,92.0,0.0,Tarde
+Línea A,MCH-04,Pedro Torres,09/10/2025,100.0,2.0,Mañana
+Línea A,MCH-01,María Díaz,10/10/2025,152.0,2.0,tarde
