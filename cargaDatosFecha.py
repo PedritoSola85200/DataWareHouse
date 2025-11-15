@@ -1,3 +1,5 @@
+# Este script genera la tabla Dim_Tiempo para el año actual e inserta solo las fechas que faltan.
+
 import pandas as pd
 import mysql.connector
 import locale
