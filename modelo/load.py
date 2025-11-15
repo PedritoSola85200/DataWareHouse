@@ -1,3 +1,5 @@
+# El script limpia el dataset original, crea una variable de defecto y extrae datos de fecha para análisis.
+
 import pandas as pd
 
 # Cargar dataset
